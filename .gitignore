@@ -1,0 +1,15 @@
+# Dependency folders
+node_modules/
+**/node_modules/
+
+# Next.js build output
+.next/
+**/.next/
+
+# Log files
+*.log
+npm-debug.log*
+
+# OS files
+.DS_Store
+Thumbs.db
